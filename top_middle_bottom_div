@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #top{
+            font-size: 36px;
+        }
+        #middle{
+            font-size: 24px;
+        }
+        #bottom{
+            font-size: 12px;
+        }
+        .name{
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+     <div id="top">
+         This is <span class="name">Top</span> the my webpage.
+     </div>
+     <div id="middle">
+         This is <span class="name">Middle</span> the my webpage.
+     </div>
+     <div id="bottom">
+         This is <span class="name">Buttom</span> the my webpage.
+     </div>
+</body>
+</html>
