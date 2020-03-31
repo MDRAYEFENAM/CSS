@@ -6,6 +6,7 @@
     <style>
         #top{
             font-size: 36px;
+            color: aqua;
         }
         #middle{
             font-size: 24px;
@@ -15,6 +16,7 @@
         }
         .name{
             font-weight: bold;
+            color: #a425cc;
         }
     </style>
 </head>
