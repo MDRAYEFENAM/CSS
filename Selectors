@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Selection</title>
+    <style>
+        p::selection {
+            color: red;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+     <p>
+         I am Rayef, Trainee of ICT Division, TiCon System Limited and Workspace Info Tech. bd,
+         BGC Trust University Bangladesh, Chittagong. Department of Computer Science & Engineering
+     </p>
+
+</body>
+</html>
