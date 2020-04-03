@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Page!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .container > div {
+            background-color: springgreen;
+            font-size: 20px;
+            margin: 20px;
+            padding: 20px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+     <div class="container">
+         <div>A. Android App Development- Java 6 class, Android-24 class</div>
+         <div>B. Android App Development- Java 6 class, Android-24 class</div>
+         <div>C. Android App Development- Java 6 class, Android-24 class</div>
+         <div>D. Android App Development- Java 6 class, Android-24 class</div>
+         <div>E. Android App Development- Java 6 class, Android-24 class</div>
+         <div>F. Android App Development- Java 6 class, Android-24 class</div>
+         <div>G. Android App Development- Java 6 class, Android-24 class</div>
+         <div>H. Android App Development- Java 6 class, Android-24 class</div>
+         <div>I. Android App Development- Java 6 class, Android-24 class</div>
+         <div>J. Android App Development- Java 6 class, Android-24 class</div>
+         <div>K. Android App Development- Java 6 class, Android-24 class</div>
+         <div>L. Android App Development- Java 6 class, Android-24 class</div>
+     </div>
+
+</body>
+</html>
